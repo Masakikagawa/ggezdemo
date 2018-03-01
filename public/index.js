@@ -3,7 +3,7 @@ module.exports={
   "_args": [
     [
       "@twilio/sip.js@0.7.7",
-      "C:\\Users\\NM\\prog\\screen-capture\\video-chat"
+      "C:\\Users\\NM\\prog\\GGez\\GGez-screen"
     ]
   ],
   "_from": "@twilio/sip.js@0.7.7",
@@ -28,7 +28,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/@twilio/sip.js/-/sip.js-0.7.7.tgz",
   "_spec": "0.7.7",
-  "_where": "C:\\Users\\NM\\prog\\screen-capture\\video-chat",
+  "_where": "C:\\Users\\NM\\prog\\GGez\\GGez-screen",
   "author": {
     "name": "OnSIP",
     "email": "developer@onsip.com",
@@ -14039,7 +14039,7 @@ module.exports={
   "_args": [
     [
       "@twilio/webrtc@2.0.0",
-      "C:\\Users\\NM\\prog\\screen-capture\\video-chat"
+      "C:\\Users\\NM\\prog\\GGez\\GGez-screen"
     ]
   ],
   "_from": "@twilio/webrtc@2.0.0",
@@ -14064,7 +14064,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/@twilio/webrtc/-/webrtc-2.0.0.tgz",
   "_spec": "2.0.0",
-  "_where": "C:\\Users\\NM\\prog\\screen-capture\\video-chat",
+  "_where": "C:\\Users\\NM\\prog\\GGez\\GGez-screen",
   "author": {
     "name": "Manjesh Malavalli",
     "email": "mmalavalli@twilio.com"
@@ -27713,7 +27713,7 @@ module.exports={
   "_args": [
     [
       "twilio-video@1.7.0",
-      "C:\\Users\\NM\\prog\\screen-capture\\video-chat"
+      "C:\\Users\\NM\\prog\\GGez\\GGez-screen"
     ]
   ],
   "_from": "twilio-video@1.7.0",
@@ -27737,7 +27737,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/twilio-video/-/twilio-video-1.7.0.tgz",
   "_spec": "1.7.0",
-  "_where": "C:\\Users\\NM\\prog\\screen-capture\\video-chat",
+  "_where": "C:\\Users\\NM\\prog\\GGez\\GGez-screen",
   "author": {
     "name": "Mark Andrus Roberts",
     "email": "mroberts@twilio.com"
